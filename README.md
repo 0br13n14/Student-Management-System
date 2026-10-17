@@ -20,3 +20,9 @@ Add a student with the **Add student** button. New records start blank; enter a 
 Required fields are student ID, full name, age, email, and course. IDs must be unique positive integers, and email addresses must use a valid format. Age must be a whole number of at least 16.
 
 Records can be edited or deleted from the table. Changes are stored in the browser and remain after refresh on the same device and browser.
+
+## Live application url 
+
+```
+https://student-management-nicholas.netlify.app/
+```
